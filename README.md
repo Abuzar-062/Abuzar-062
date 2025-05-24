@@ -20,7 +20,7 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
 
-- 🌱 I’m currently learning **Data Sciences**
+- 🌱 I’m currently learning **React, Laravel**
 
 - 💬 Ask me about **Php, Laravel ,Python , Flask**
 
