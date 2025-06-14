@@ -22,7 +22,7 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 🌱 I’m currently learning **React, Laravel**
 
-- 💬 Ask me about **Php, Laravel ,Python , Flask**
+- 💬 Ask me about **Php, Laravel, Python , Flask**
 
 - 📫 How to reach me **notabuzar@gmail.com**
 
