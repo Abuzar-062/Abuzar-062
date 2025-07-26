@@ -18,7 +18,7 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 🔭 I’m currently working on **ERP SYSTEM**
 
-- 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
+- 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar!
 
 - 🌱 I’m currently learning **React, Laravel**
 
